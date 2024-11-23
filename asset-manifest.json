@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/translate-env/static/css/main.7b74dd69.css",
+    "main.js": "/translate-env/static/js/main.c042ac95.js",
+    "static/js/453.1636ae31.chunk.js": "/translate-env/static/js/453.1636ae31.chunk.js",
+    "index.html": "/translate-env/index.html",
+    "main.7b74dd69.css.map": "/translate-env/static/css/main.7b74dd69.css.map",
+    "main.c042ac95.js.map": "/translate-env/static/js/main.c042ac95.js.map",
+    "453.1636ae31.chunk.js.map": "/translate-env/static/js/453.1636ae31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b74dd69.css",
+    "static/js/main.c042ac95.js"
+  ]
+}
